@@ -1,0 +1,28 @@
+127.0.0.1	localhost
+127.0.1.1	parrot
+
+#HackTheBox
+10.10.10.29 bank.htb
+10.10.10.83 ctfolympus.htb ns1.ctfolympus.htb ns2.ctfolympus.htb
+10.10.10.52 mantis.htb.local htb.local
+10.10.10.78 aragog
+10.10.10.79 valentine.htb
+10.10.10.117 irked.htb 
+10.10.10.126 unattended.htb www.nestedflanders.htb
+10.10.10.222 helpdesk.delivery.htb delivery.htb
+10.10.10.160 postman
+10.10.10.175 sauna.htb
+10.10.10.208 crossfit.htb
+10.10.10.150 curling.htb
+10.10.10.216 laboratory.htb git.laboratory.htb
+10.10.10.226 scriptkiddie.htb
+10.10.10.229 spectra.htb
+10.10.10.214 time.htb
+10.10.10.223 tenet.htb sator.tenet.htb
+10.10.10.93 bounty.htb
+10.10.10.115 haystack.htb
+
+# The following lines are desirab	le for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
